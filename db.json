@@ -1,0 +1,418 @@
+{
+	"orders": [
+
+	],
+	"cart": [
+
+	],
+	"categories": [
+	  {
+		"id": 1,
+		"title": "Кольца"
+	  },
+	  {
+		"id": 2,
+		"title": "Серьги"
+	  },
+	  {
+		"id": 3,
+		"title": "Ожерелья"
+	  },
+	  {
+		"id": 4,
+		"title": "Браслеты"
+	  },
+	  {
+		"id": 5,
+		"title": "Заколки"
+	  }
+	],
+	"collections": [
+		{
+		  "id": 1,
+		  "title": "Coquet Hearts"
+		},
+		{
+		  "id": 2,
+		  "title": "SILVER BAY"
+		},
+		{
+		  "id": 3,
+		  "title": "Wave Vibes"
+		},
+		{
+		  "id": 4,
+		  "title": "Summer Beach"
+		},
+		{
+		  "id": 5,
+		  "title": "FLOW BLOOM"
+		},
+		{
+		  "id": 6,
+		  "title": "CRY BABY LOGIC"
+		},
+		{
+		  "id": 7,
+		  "title": "BERRY BERRY"
+		},
+		{
+		  "id": 8,
+		  "title": "ELPH Shine"
+		}
+	  ],
+	"products": [
+	  {
+		"id": 1,
+		"title": "Серьги",
+		"categoryId": 2,
+		"collectionsID": 1,
+		"price": 1600 ,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/VeryVintageBlackOnyxHeartEarrings01.webp",
+		"images": [
+		  "@/assets/c-img/VeryVintageBlackOnyxHeartEarrings01.webp",
+		  "@/assets/c-img/VeryVintageBlackOnyxHeartEarrings05.webp"
+		]
+	  },
+	  {
+		"id": 2,
+		"title": "Серьги из двух колец",
+		"categoryId": 2,
+		"collectionsID": 2,
+		"price": 2700 ,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/Rectangle 130.jpg",
+		"images": [
+		  "@/assets/c-img/WhiteBronzeDoubleWhirlpoolEarrings01.webp",
+		  "@/assets/c-img/WhiteBronzeDoubleWhirlpoolEarrings04.webp"
+		]
+	  },
+	  {
+		"id": 3,
+		"title": "Кольцо из серебра",
+		"categoryId": 1,
+		"collectionsID": 2,
+		"price": 2000,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/SterlingSilverSmoothFormRing03.webp",
+		"images": [
+		  "@/assets/c-img/SterlingSilverSmoothFormRing02.webp",
+		  "@/assets/c-img/SterlingSilverSmoothFormRing01.webp",
+		  "@/assets/c-img/SterlingSilverSmoothFormRing04.webp"
+		]
+	  },
+	  {
+		"id": 4,
+		"title": "Браслет из серебряных колец",
+		"categoryId": 4,
+		"collectionsID": 2,
+		"price": 3100,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/SterlingSilverWhirlpoolBracelet03.webp",
+		"images": [
+		  "@/assets/c-img/SterlingSilverWhirlpoolBracelet02.webp",
+		  "@/assets/c-img/SterlingSilverWhirlpoolBracelet03.webp"
+		]
+	  },
+	  {
+		"id": 5,
+		"title": "Серьги с имитацией пластики",
+		"categoryId": 2,
+		"collectionsID": 3,
+		"price": 2900,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/TII-2020-Product0617.webp",
+		"images": [
+		  "@/assets/c-img/Bump-Triple-Hoop-Earring2-1200x1600.jpg",
+		  "@/assets/c-img/Bump-Triple-Hoop-Earring5-1200x1600.jpg"
+		]
+	  },
+	  {
+		"id": 6,
+		"title": "Набор пластичных колец",
+		"categoryId": 1,
+		"collectionsID": 3,
+		"price": 3600,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/TII-2020-Product-TrioRIngSilver-1067x1600.jpg",
+		"images": [
+		  "@/assets/c-img/TII-2021-Hands1173_lowres-1067x1600.jpg",
+		  "@/assets/c-img/TII-20205569_v2-1067x1600.jpg"
+		]
+	  },
+	  {
+		"id": 7,
+		"title": "Серьги из пуссет",
+		"categoryId": 2,
+		"collectionsID": 4,
+		"price": 1800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/TII-BCE-CP-0799-p-1200x1600.jpg",
+		"images": [
+		  "@/assets/c-img/TII-BCE-201809072585-1200x1600.jpg",
+		  "@/assets/c-img/TII-BCE-201809072588-1200x1600.jpg"
+		]
+	  },
+	  {
+		"id": 8,
+		"title": "Серьги почки",
+		"categoryId": 2,
+		"collectionsID": 4,
+		"price": 1600,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/VeryVintageBlackOnyxHeartEarrings01.webp",
+		"images": [
+		  "@/assets/c-img/TII-BEB-201809070002-1-1200x1600.jpg",
+		  "@/assets/c-img/TII-BEB-201809074361-1200x1600.jpg",
+		  "@/assets/c-img/TII-BEB-201809074370-1200x1600.jpg"
+		]
+	  },
+	  {
+		"id": 9,
+		"title": "Серьги облако",
+		"categoryId": 2,
+		"collectionsID": 4,
+		"price": 1800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/TII-BHEF-CP-0832-p-1200x1600.jpg",
+		"images": [
+		  "@/assets/c-img/TII-BHEF-201809073502-X-1200x1600.jpg",
+		  "@/assets/c-img/TII-BHEF-201809073517-1200x1600.jpg",
+		  "@/assets/c-img/TII-BHEF-201809073522-1200x1600.jpg"
+		]
+	  },
+	  {
+		"id": 10,
+		"title": "Серьги из серебра",
+		"categoryId": 2,
+		"collectionsID": 4,
+		"price": 1800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/TII-BHET-CP-0804-p-1200x1600.jpg",
+		"images": [
+		  "@/assets/c-img/TII-BHET-201809072890-c-1200x1600.jpg",
+		  "@/assets/c-img/TII-BHET-201809072928-1200x1600.jpg"
+		]
+	  },
+	  {
+		"id": 11,
+		"title": "Серьги пластичные нитки",
+		"categoryId": 2,
+		"collectionsID": 4,
+		"price": 1200,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/TII-BLE-CP-1219-p-1200x1600.jpg",
+		"images": [
+		  "@/assets/c-img/TII-BLE-201809073229-1200x1600.jpg",
+		  "@/assets/c-img/TII-BLE-201809073206-X-1200x1600.jpg",
+		  "@/assets/c-img/TII-BLE-201809073232-1200x1600.jpg"
+		]
+	  },
+	  {
+		"id": 12,
+		"title": "Серьги бантики",
+		"categoryId": 2,
+		"collectionsID": 1,
+		"price": 2300,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/cravatearring.webp",
+		"images": [
+		  "@/assets/c-img/cravatear2.webp"
+		]
+	  },
+	  {
+		"id": 13,
+		"title": "Серьги бантики с сердцем",
+		"categoryId": 2,
+		"collectionsID": 1,
+		"price": 2400,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/14KGoldTinyHeartBowStuds01.webp",
+		"images": [
+		  "@/assets/c-img/14KGoldTinyHeartBowStuds02.webp",
+		  "@/assets/c-img/14KGoldTinyHeartBowStuds03.webp"
+		]
+	  },
+	  {
+		"id": 14,
+		"title": "Колье с чармами",
+		"categoryId": 3,
+		"collectionsID": 6,
+		"price": 2800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/85c9b9c0a0b97b982889178c499e6fd5.jpg",
+		"images": [
+		  "@/assets/c-img/ig_ bhogafina.jpg"
+		]
+	  },
+	  {
+		"id": 15,
+		"title": "Серьги с жемчугом",
+		"categoryId": 2,
+		"collectionsID": 2,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/BottigliaPearlEarrings02.webp",
+		"images": [
+		  "@/assets/c-img/BottigliaPearlEarrings01.webp"
+		]
+	  },
+	  {
+		"id": 16,
+		"title": "Эльфийское кольцо",
+		"categoryId": 1,
+		"collectionsID": 8,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/CFAnchorChainRingLarge06.webp",
+		"images": [
+		  "@/assets/c-img/CFAnchorChainRingLarge01.webp"
+		]
+	  },
+	  {
+		"id": 17,
+		"title": "Подвеска тело",
+		"categoryId": 3,
+		"collectionsID": 2,
+		"price": 2500,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/Femme.webp",
+		"images": [
+		  "@/assets/c-img/Femm4.webp"
+		]
+	  },
+	  {
+		"id": 18,
+		"title": "Эльфийское свадебное кольцо",
+		"categoryId": 1,
+		"collectionsID": 8,
+		"price": 6800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/FireOpalBaroqueRing02.webp",
+		"images": [
+		  "@/assets/c-img/FireOpalBaroqueRing01.webp",
+		  "@/assets/c-img/FireOpalBaroqueRing03.webp",
+		  "@/assets/c-img/FireOpalBaroqueRing04.webp"
+		]
+	  },
+	  {
+		"id": 19,
+		"title": "Цветочный медальон",
+		"categoryId": 3,
+		"collectionsID": 4,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/flowerlocket03.webp",
+		"images": [
+		  "@/assets/c-img/Botflowerlocket02tigliaPearlEarrings01.webp",
+		  "@/assets/c-img/flowerlocket01.webp"
+		]
+	  },
+	  {
+		"id": 20,
+		"title": "Серьги сердца",
+		"categoryId": 2,
+		"collectionsID": 1,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/sshart01.webp",
+		"images": [
+		  "@/assets/c-img/Botsshart01_100d7eb6-01b3-4d79-8685-4e1976c65766tigliaPearlEarrings01.webp",
+		  "@/assets/c-img/sshart02.webp"
+		]
+	  },
+	  {
+		"id": 21,
+		"title": "Браслет мягкая волна",
+		"categoryId": 4,
+		"collectionsID": 3,
+		"price": 3200,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/SterlingSilverHydroBracelet05.webp",
+		"images": [
+		  "@/assets/c-img/SterlingSilverHydroBracelet01.webp",
+		  "@/assets/c-img/SterlingSilverHydroBracelet02.webp"
+		]
+	  },
+	  {
+		"id": 22,
+		"title": "Серьги геометрия",
+		"categoryId": 2,
+		"collectionsID": 2,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/SilverSatinSmallSquareHoops01.webp",
+		"images": [
+		  "@/assets/c-img/SilverSatinSmallSquareHoops02.webp",
+		  "@/assets/c-img/SilverSatinSmallSquareHoops03.webp"
+		]
+	  },
+	  {
+		"id": 23,
+		"title": "Медальон сердец",
+		"categoryId": 3,
+		"collectionsID": 1,
+		"price": 2400,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/puffyheart02.webp",
+		"images": [
+		  "@/assets/c-img/puffyheart01.webp"
+		]
+	  },
+	  {
+		"id": 24,
+		"title": "Браслет геометрия",
+		"categoryId": 4,
+		"collectionsID": 2,
+		"price": 3100,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/OlasBracelet01.webp",
+		"images": [
+		  "@/assets/c-img/OlasBracelet02.webp"
+		]
+	  },
+	  {
+		"id": 25,
+		"title": "Серьги эльфа",
+		"categoryId": 2,
+		"collectionsID": 8,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/MochicaEarrings01.webp",
+		"images": [
+		  "@/assets/c-img/MochicaEarrings02.webp",
+		  "@/assets/c-img/MochicaEarrings04.webp"
+		]
+	  },
+	  {
+		"id": 26,
+		"title": "Подвеска ракушка",
+		"categoryId": 3,
+		"collectionsID": 4,
+		"price": 4800,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/SterlingSilverStackedPearlandHeartChain03.webp",
+		"images": [
+		  "@/assets/c-img/SterlingSilverStackedPearlandHeartChain01.webp",
+		  "@/assets/c-img/SterlingSilverStackedPearlandHeartChain02.webp"
+		]
+	  },
+	  {
+		"id": 26,
+		"title": "Заколка с ягодным бисером",
+		"categoryId": 5,
+		"collectionsID": 7,
+		"price": 1600,
+		"description": "Кольцо из серии PROMISE LIL STAR вдохновлено магией и эльфийскими мотивами",
+		"image": "@/assets/c-img/Rectangle 134.jpg",
+		"images": [
+		  "@/assets/c-img/Rectangle 134.jpg",
+		  "@/assets/c-img/Rectangle 134.jpg"
+		]
+	  }
+	],
+	"users": [
+	  
+	]
+  }
